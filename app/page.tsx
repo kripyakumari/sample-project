@@ -5,6 +5,7 @@ export default function Home() {
     <>
     <h1>Hello, World!</h1>
     <p>Welcome to my Next.js app!</p>
+    <p>This is a simple Next.js app.</p>
     </>
   );
 }
